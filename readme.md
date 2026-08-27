@@ -37,6 +37,7 @@
 <small>🧡🧡🧡 HAPPY CODING 🧡🧡🧡</small>
 
 ---
+<!--
 <div>
 <h2>💖 Sponsors</h2>
 
@@ -69,13 +70,13 @@
     </a>
   </h2>
 </div>
+
 <hr />
+
 <div align="center">
   <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
     <picture>
-      <!-- Dark mode -->
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-white.png" />
-      <!-- Light mode (fallback) -->
       <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-black.png"
            width="400px"
            alt="Petrosky Logo"
@@ -91,10 +92,11 @@
 
   <h2>
     <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-      Affordable VPS Hosting Services For All Your  Needs
+      Affordable VPS Hosting Services For All Your Needs
     </a>
   </h2>
 </div>
+-->
 
 ---
 
